@@ -1,3 +1,5 @@
+ATIVIDADE SOMATIVA 2 - SISTEMAS WEB SEGUROS - PUCPR
+
 Vamos construir um sistema cliente que representará o SINFIN e acessará os serviços do SISRH. O SISFIN será construído em JavaScript. Como nosso foco não está na programação de sistemas clientes, deixamos o código disponível e faremos a explicação na videoaula. Utilizaremos a framework Vue.js (https://vuejs.org/) para ajudar no desenvolvimento do cliente, principalmente no momento de fazer as chamadas para os serviços REST do SISRH.
 
 Construa dois serviços para o recurso empregado:
